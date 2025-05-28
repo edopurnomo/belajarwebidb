@@ -1,0 +1,22 @@
+.navbar-brand img {
+    width: 150px;
+    height: auto !important;
+    filter: brightness(0) invert(1);
+}
+header.masthead {
+    background-image: url(../assets/img/gedung-idb-baru.jpg);
+}
+.btn-primary {
+    background-color: #024d71;
+    border-color: transparent;
+}
+.btm-primary:hover {
+    background-color: #f17711;
+}
+.text-primary {
+    color: #024d71 !important;
+}
+.portfolio-link img {
+    height: 300px;
+    object-fit:cover;
+}
